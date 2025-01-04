@@ -14,4 +14,5 @@ assignees: ''
 
 Guide for testers:
 * Post screenshots from your smoke tests
+* Mention which OS you used for testing
 
