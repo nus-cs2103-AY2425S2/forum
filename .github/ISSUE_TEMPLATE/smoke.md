@@ -13,6 +13,7 @@ assignees: ''
 
 
 Guide for testers:
-* Post screenshots from your smoke tests
-* Mention which OS you used for testing
+* Do a [smoke test](https://en.wikipedia.org/wiki/Smoke_testing_(software)). No need for extensive testing.
+* Post screenshots from your smoke tests.
+* Mention which OS you used for testing.
 
